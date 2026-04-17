@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Satyam 👋
 
-<!--
-**satyam302004/satyam302004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI/ML Student (3rd Year)
+💡 Building AI + Web projects with a focus on real-world use
+🚀 Turning ideas into working applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* 💻 HTML, CSS, JavaScript
+* ⚛️ React (learning)
+* 🐍 Python
+* 🔧 Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 👗 Modemint (AI Fashion Outfit Generator)
+
+An AI-powered web app that generates outfit suggestions from uploaded images
+👉 Features: image upload, preview, AI-based recommendations
+
+---
+
+### 🎙️ Voice Chess
+
+Voice-controlled chess game using JavaScript
+👉 Focus: speech recognition + interactive UI
+
+---
+
+### 📄 Resume Analyser
+
+Python tool to analyze resumes and extract key insights
+👉 Focus: text processing & automation
+
+---
+
+### 🤖 AI Presentation & Spreadsheet Generator
+
+TypeScript app that generates structured content using AI
+👉 Focus: automation + AI integration
+
+---
+
+## 📈 Currently Learning
+
+* React & Frontend Development
+* Machine Learning Basics
+* UI/UX Design
+
+---
+
+## 🎯 Goals
+
+* Build strong real-world projects
+* Land a solid internship
+* Improve coding + design skills
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: (ADD YOUR LINK HERE)
+
+---
+
+⭐ I focus on building, not just learning.
