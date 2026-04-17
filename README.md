@@ -63,8 +63,8 @@ TypeScript app that generates structured content using AI
 
 ## 📫 Connect with Me
 
-* LinkedIn: (ADD YOUR LINK HERE)
+* LinkedIn: https://www.linkedin.com/in/satyam-parmar-568503289/
 
 ---
 
-⭐ I focus on building, not just learning.
+⭐ Blending AI, design, and code into real-world projects.
